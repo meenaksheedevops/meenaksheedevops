@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meenakshee</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT.</h3>
 
-- 🔭 I’m currently working on **DevOps & DevSecOps Project in 2025 .**
+- 🔭 I’m currently working on **DevOps & DevSecOps Project in 2025 and Exploring .**
 
 - 👨‍💻 All of my projects are available at [https://github.com/meenaksheedevops](https://github.com/meenaksheedevops)
 
