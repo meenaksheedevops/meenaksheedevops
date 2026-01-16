@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meenakshee</h1>
+<h1 align="center">Hi 👋, I'm Meenakshi</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT.</h3>
 
 - 🔭 I’m currently working on **DevOps & DevSecOps Projets  and Exploring Everyday with new technologies includes AI .**
