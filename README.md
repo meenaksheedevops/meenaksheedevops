@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Meenakshi</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT.</h3>
 
-- 🔭 I’m currently working on **DevOps & DevSecOps Projets  and Exploring Everyday with new technologies includes AI .**
+- 🔭 I’m currently working on "DevOps & DevSecOps Projets  and Exploring Everyday with new technologies includes AI ."
 
 - 👨‍💻 All of my projects are available at [https://github.com/meenaksheedevops](https://github.com/meenaksheedevops)
 
-- 💬 Ask me about : AWS,Docker,Kubernetes,Terraform, GIT , GIT-HUB 
+- 💬 Ask me about : AWS,Docker,Kubernetes,Terraform,GIT,GIT-HUB 
   
 <p align="left">
 </p>
