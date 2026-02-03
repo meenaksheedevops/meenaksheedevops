@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/meenaksheedevops](https://github.com/meenaksheedevops)
 
-- 💬 Ask me about ** AWS,Docker,Kubernetes,Terraform, GIT , GIT-HUB etc.**
+- 💬 Ask me about : AWS,Docker,Kubernetes,Terraform, GIT , GIT-HUB 
   
 <p align="left">
 </p>
